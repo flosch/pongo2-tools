@@ -1,4 +1,4 @@
 pongo2-tools
 ============
 
-Helper tools for the use of the pongo2 template engine
+Tools and other helpers for the [pongo2 template engine](https://github.com/flosch/pongo2)
